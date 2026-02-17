@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260217-190442-fqi9",
+    "title": "Mon Mariachi",
+    "commanders": [
+      "Mon Mariachi"
+    ],
+    "dateStart": "2026-02-17T19:04:42.000Z",
+    "dateEnd": "2026-02-17T21:30:37.000Z",
+    "dateLabel": "17/02/2026, 19:04:42 - 17/02/2026, 21:30:37",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260217-190442-fqi9",
+    "summary": {
+      "borderlandsPct": 0.4090909090909091,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 39
+    }
+  }
+]
