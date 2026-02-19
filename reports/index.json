@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260219-185824-vlm6",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-19T18:58:24.000Z",
+    "dateEnd": "2026-02-19T20:58:40.000Z",
+    "dateLabel": "19/02/2026, 18:58:24 - 19/02/2026, 20:58:40",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260219-185824-vlm6",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 30,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 42
+    }
+  },
+  {
     "id": "20260217-190442-fqi9",
     "title": "Mon Mariachi",
     "commanders": [
