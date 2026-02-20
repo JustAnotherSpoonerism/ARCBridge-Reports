@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260220-181130-c6nr",
+    "title": "Mon Mariachi",
+    "commanders": [
+      "Mon Mariachi"
+    ],
+    "dateStart": "2026-02-20T18:11:30.000Z",
+    "dateEnd": "2026-02-20T20:00:50.000Z",
+    "dateLabel": "20/02/2026, 18:11:30 - 20/02/2026, 20:00:50",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260220-181130-c6nr",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 13,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 30
+    }
+  },
+  {
     "id": "20260219-185824-vlm6",
     "title": "Strádùs",
     "commanders": [
