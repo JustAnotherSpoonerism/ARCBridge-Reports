@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260221-183916-yw2r",
+    "title": "Flowsn",
+    "commanders": [
+      "Flowsn"
+    ],
+    "dateStart": "2026-02-21T18:39:16.000Z",
+    "dateEnd": "2026-02-21T20:46:31.000Z",
+    "dateLabel": "21/02/2026, 18:39:16 - 21/02/2026, 20:46:31",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260221-183916-yw2r",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 13,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 29
+    }
+  },
+  {
     "id": "20260220-181130-c6nr",
     "title": "Mon Mariachi",
     "commanders": [
