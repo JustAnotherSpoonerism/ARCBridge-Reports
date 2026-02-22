@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260222-200110-ymil",
+    "title": "Just Mad N Fluffy",
+    "commanders": [
+      "Just Mad N Fluffy"
+    ],
+    "dateStart": "2026-02-22T20:01:10.000Z",
+    "dateEnd": "2026-02-22T22:00:44.000Z",
+    "dateLabel": "22/02/2026, 20:01:10 - 22/02/2026, 22:00:44",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260222-200110-ymil",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 20,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 22
+    }
+  },
+  {
     "id": "20260222-153145-37hr",
     "title": "Human Tamed A Cat",
     "commanders": [
