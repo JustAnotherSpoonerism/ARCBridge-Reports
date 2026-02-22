@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260222-153145-37hr",
+    "title": "Human Tamed A Cat",
+    "commanders": [
+      "Human Tamed A Cat"
+    ],
+    "dateStart": "2026-02-22T15:31:45.000Z",
+    "dateEnd": "2026-02-22T16:55:55.000Z",
+    "dateLabel": "22/02/2026, 15:31:45 - 22/02/2026, 16:55:55",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260222-153145-37hr",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 9,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260221-183916-yw2r",
     "title": "Flowsn",
     "commanders": [
