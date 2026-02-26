@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260226-190844-6e0p",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-26T19:08:44.000Z",
+    "dateEnd": "2026-02-26T20:51:35.000Z",
+    "dateLabel": "26/02/2026, 19:08:44 - 26/02/2026, 20:51:35",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260226-190844-6e0p",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 22,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 49
+    }
+  },
+  {
     "id": "20260222-200110-ymil",
     "title": "Just Mad N Fluffy",
     "commanders": [
