@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260228-183313-z1fn",
+    "title": "Flowsn",
+    "commanders": [
+      "Flowsn"
+    ],
+    "dateStart": "2026-02-28T18:33:13.000Z",
+    "dateEnd": "2026-02-28T20:33:10.000Z",
+    "dateLabel": "28/02/2026, 18:33:13 - 28/02/2026, 20:33:10",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260228-183313-z1fn",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 22,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 41
+    }
+  },
+  {
     "id": "20260227-180856-t6tb",
     "title": "Just Mad N Fluffy",
     "commanders": [
