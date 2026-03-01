@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260301-200544-s8y0",
+    "title": "Enemy Thorn",
+    "commanders": [
+      "Enemy Thorn"
+    ],
+    "dateStart": "2026-03-01T20:05:44.000Z",
+    "dateEnd": "2026-03-01T21:46:32.000Z",
+    "dateLabel": "01/03/2026, 20:05:44 - 01/03/2026, 21:46:32",
+    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260301-200544-s8y0",
+    "summary": {
+      "borderlandsPct": 0.29411764705882354,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 12,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 33
+    }
+  },
+  {
     "id": "20260228-183313-z1fn",
     "title": "Flowsn",
     "commanders": [
