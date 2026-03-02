@@ -1,257 +1,287 @@
-[
-  {
-    "id": "20260301-200544-s8y0",
-    "title": "Enemy Thorn",
-    "commanders": [
-      "Enemy Thorn"
-    ],
-    "dateStart": "2026-03-01T20:05:44.000Z",
-    "dateEnd": "2026-03-01T21:46:32.000Z",
-    "dateLabel": "01/03/2026, 20:05:44 - 01/03/2026, 21:46:32",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260301-200544-s8y0",
-    "summary": {
-      "borderlandsPct": 0.29411764705882354,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 12,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 33
-    }
+{
+  "siteTheme": {
+    "ui": "matte",
+    "paletteId": "MatteSlate",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260228-183313-z1fn",
-    "title": "Flowsn",
-    "commanders": [
-      "Flowsn"
-    ],
-    "dateStart": "2026-02-28T18:33:13.000Z",
-    "dateEnd": "2026-02-28T20:33:10.000Z",
-    "dateLabel": "28/02/2026, 18:33:13 - 28/02/2026, 20:33:10",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260228-183313-z1fn",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 22,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+  "entries": [
+    {
+      "id": "20260302-185358-1ge8",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 41
-    }
-  },
-  {
-    "id": "20260227-180856-t6tb",
-    "title": "Just Mad N Fluffy",
-    "commanders": [
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-02-27T18:08:56.000Z",
-    "dateEnd": "2026-02-27T20:14:46.000Z",
-    "dateLabel": "27/02/2026, 18:08:56 - 27/02/2026, 20:14:46",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260227-180856-t6tb",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-02T18:53:58.000Z",
+      "dateEnd": "2026-03-02T20:53:03.000Z",
+      "dateLabel": "02/03/2026, 18:53:58 - 02/03/2026, 20:53:03",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260302-185358-1ge8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260301-200544-s8y0",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260226-190844-6e0p",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-26T19:08:44.000Z",
-    "dateEnd": "2026-02-26T20:51:35.000Z",
-    "dateLabel": "26/02/2026, 19:08:44 - 26/02/2026, 20:51:35",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260226-190844-6e0p",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-01T20:05:44.000Z",
+      "dateEnd": "2026-03-01T21:46:32.000Z",
+      "dateLabel": "01/03/2026, 20:05:44 - 01/03/2026, 21:46:32",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260301-200544-s8y0",
+      "summary": {
+        "borderlandsPct": 0.29411764705882354,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260228-183313-z1fn",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260222-200110-ymil",
-    "title": "Just Mad N Fluffy",
-    "commanders": [
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-02-22T20:01:10.000Z",
-    "dateEnd": "2026-02-22T22:00:44.000Z",
-    "dateLabel": "22/02/2026, 20:01:10 - 22/02/2026, 22:00:44",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260222-200110-ymil",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 20,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-28T18:33:13.000Z",
+      "dateEnd": "2026-02-28T20:33:10.000Z",
+      "dateLabel": "28/02/2026, 18:33:13 - 28/02/2026, 20:33:10",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260228-183313-z1fn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 41
+      }
+    },
+    {
+      "id": "20260227-180856-t6tb",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 22
-    }
-  },
-  {
-    "id": "20260222-153145-37hr",
-    "title": "Human Tamed A Cat",
-    "commanders": [
-      "Human Tamed A Cat"
-    ],
-    "dateStart": "2026-02-22T15:31:45.000Z",
-    "dateEnd": "2026-02-22T16:55:55.000Z",
-    "dateLabel": "22/02/2026, 15:31:45 - 22/02/2026, 16:55:55",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260222-153145-37hr",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 9,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-27T18:08:56.000Z",
+      "dateEnd": "2026-02-27T20:14:46.000Z",
+      "dateLabel": "27/02/2026, 18:08:56 - 27/02/2026, 20:14:46",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260227-180856-t6tb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260226-190844-6e0p",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260221-183916-yw2r",
-    "title": "Flowsn",
-    "commanders": [
-      "Flowsn"
-    ],
-    "dateStart": "2026-02-21T18:39:16.000Z",
-    "dateEnd": "2026-02-21T20:46:31.000Z",
-    "dateLabel": "21/02/2026, 18:39:16 - 21/02/2026, 20:46:31",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260221-183916-yw2r",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 13,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-26T19:08:44.000Z",
+      "dateEnd": "2026-02-26T20:51:35.000Z",
+      "dateLabel": "26/02/2026, 19:08:44 - 26/02/2026, 20:51:35",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260226-190844-6e0p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260222-200110-ymil",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 29
-    }
-  },
-  {
-    "id": "20260220-181130-c6nr",
-    "title": "Mon Mariachi",
-    "commanders": [
-      "Mon Mariachi"
-    ],
-    "dateStart": "2026-02-20T18:11:30.000Z",
-    "dateEnd": "2026-02-20T20:00:50.000Z",
-    "dateLabel": "20/02/2026, 18:11:30 - 20/02/2026, 20:00:50",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260220-181130-c6nr",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 13,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-22T20:01:10.000Z",
+      "dateEnd": "2026-02-22T22:00:44.000Z",
+      "dateLabel": "22/02/2026, 20:01:10 - 22/02/2026, 22:00:44",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260222-200110-ymil",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 22
+      }
+    },
+    {
+      "id": "20260222-153145-37hr",
+      "title": "Human Tamed A Cat",
+      "commanders": [
+        "Human Tamed A Cat"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260219-185824-vlm6",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-19T18:58:24.000Z",
-    "dateEnd": "2026-02-19T20:58:40.000Z",
-    "dateLabel": "19/02/2026, 18:58:24 - 19/02/2026, 20:58:40",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260219-185824-vlm6",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 30,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-22T15:31:45.000Z",
+      "dateEnd": "2026-02-22T16:55:55.000Z",
+      "dateLabel": "22/02/2026, 15:31:45 - 22/02/2026, 16:55:55",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260222-153145-37hr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260221-183916-yw2r",
+      "title": "Flowsn",
+      "commanders": [
+        "Flowsn"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 42
-    }
-  },
-  {
-    "id": "20260217-190442-fqi9",
-    "title": "Mon Mariachi",
-    "commanders": [
-      "Mon Mariachi"
-    ],
-    "dateStart": "2026-02-17T19:04:42.000Z",
-    "dateEnd": "2026-02-17T21:30:37.000Z",
-    "dateLabel": "17/02/2026, 19:04:42 - 17/02/2026, 21:30:37",
-    "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260217-190442-fqi9",
-    "summary": {
-      "borderlandsPct": 0.4090909090909091,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 9,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-21T18:39:16.000Z",
+      "dateEnd": "2026-02-21T20:46:31.000Z",
+      "dateLabel": "21/02/2026, 18:39:16 - 21/02/2026, 20:46:31",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260221-183916-yw2r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260220-181130-c6nr",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 39
+      "dateStart": "2026-02-20T18:11:30.000Z",
+      "dateEnd": "2026-02-20T20:00:50.000Z",
+      "dateLabel": "20/02/2026, 18:11:30 - 20/02/2026, 20:00:50",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260220-181130-c6nr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260219-185824-vlm6",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "dateStart": "2026-02-19T18:58:24.000Z",
+      "dateEnd": "2026-02-19T20:58:40.000Z",
+      "dateLabel": "19/02/2026, 18:58:24 - 19/02/2026, 20:58:40",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260219-185824-vlm6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260217-190442-fqi9",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
+      ],
+      "dateStart": "2026-02-17T19:04:42.000Z",
+      "dateEnd": "2026-02-17T21:30:37.000Z",
+      "dateLabel": "17/02/2026, 19:04:42 - 17/02/2026, 21:30:37",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260217-190442-fqi9",
+      "summary": {
+        "borderlandsPct": 0.4090909090909091,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 39
+      }
     }
-  }
-]
+  ]
+}
