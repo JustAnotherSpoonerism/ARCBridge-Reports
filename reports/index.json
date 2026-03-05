@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260305-190618-akfj",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "dateStart": "2026-03-05T19:06:18.000Z",
+      "dateEnd": "2026-03-05T20:46:27.000Z",
+      "dateLabel": "05/03/2026, 19:06:18 - 05/03/2026, 20:46:27",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260305-190618-akfj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260304-191330-vubr",
       "title": "Revana Jötunnbane",
       "commanders": [
