@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260307-184605-18it",
+      "title": "Flowsn, Yoloola",
+      "commanders": [
+        "Flowsn",
+        "Yoloola"
+      ],
+      "dateStart": "2026-03-07T18:46:05.000Z",
+      "dateEnd": "2026-03-07T21:03:18.000Z",
+      "dateLabel": "07/03/2026, 18:46:05 - 07/03/2026, 21:03:18",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260307-184605-18it",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 33,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260305-190618-akfj",
       "title": "Strádùs",
       "commanders": [
