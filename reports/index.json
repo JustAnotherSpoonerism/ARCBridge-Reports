@@ -6,6 +6,44 @@
   },
   "entries": [
     {
+      "id": "20260311-192150-y5ca",
+      "title": "Revana Jötunnbane",
+      "commanders": [
+        "Revana Jötunnbane"
+      ],
+      "dateStart": "2026-03-11T19:21:50.000Z",
+      "dateEnd": "2026-03-11T20:53:29.000Z",
+      "dateLabel": "11/03/2026, 19:21:50 - 11/03/2026, 20:53:29",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260311-192150-y5ca",
+      "summary": {
+        "borderlandsPct": 0.46153846153846156,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260307-184605-18it",
       "title": "Flowsn, Yoloola",
       "commanders": [
