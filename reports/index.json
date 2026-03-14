@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260314-183920-fouv",
+      "title": "Flowsn, Human Tamed A Cat",
+      "commanders": [
+        "Flowsn",
+        "Human Tamed A Cat"
+      ],
+      "dateStart": "2026-03-14T18:39:20.000Z",
+      "dateEnd": "2026-03-14T21:34:00.000Z",
+      "dateLabel": "14/03/2026, 18:39:20 - 14/03/2026, 21:34:00",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260314-183920-fouv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260313-181145-cohj",
       "title": "Just Mad N Fluffy, Yoloola",
       "commanders": [
