@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260315-204633-d1br",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-15T20:46:33.000Z",
+      "dateEnd": "2026-03-15T21:40:58.000Z",
+      "dateLabel": "15/03/2026, 20:46:33 - 15/03/2026, 21:40:58",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260315-204633-d1br",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260314-183920-fouv",
       "title": "Flowsn, Human Tamed A Cat",
       "commanders": [
