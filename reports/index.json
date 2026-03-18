@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260318-192457-cdaw",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-18T19:24:57.000Z",
+      "dateEnd": "2026-03-18T21:00:41.000Z",
+      "dateLabel": "18/03/2026, 19:24:57 - 18/03/2026, 21:00:41",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260318-192457-cdaw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260315-204633-d1br",
       "title": "Just Mad N Fluffy",
       "commanders": [
