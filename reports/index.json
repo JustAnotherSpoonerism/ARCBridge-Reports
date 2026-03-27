@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "matte",
-    "paletteId": "MatteSlate",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260327-181220-5zfl",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-27T18:12:20.000Z",
+      "dateEnd": "2026-03-27T20:41:24.000Z",
+      "dateLabel": "27/03/2026, 18:12:20 - 27/03/2026, 20:41:24",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260327-181220-5zfl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20260325-191225-76vi",
       "title": "Revana Jötunnbane",
