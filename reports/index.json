@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260328-131501-d03s",
+      "title": "Human Tamed A Cat, Me My Clones And I",
+      "commanders": [
+        "Human Tamed A Cat",
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-03-28T13:15:01.000Z",
+      "dateEnd": "2026-03-28T15:12:40.000Z",
+      "dateLabel": "28/03/2026, 13:15:01 - 28/03/2026, 15:12:40",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260328-131501-d03s",
+      "summary": {
+        "borderlandsPct": 0.9047619047619048,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260327-181220-5zfl",
       "title": "Just Mad N Fluffy",
       "commanders": [
