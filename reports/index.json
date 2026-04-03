@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-175242-wioa",
+      "title": "Fingersinge, Just Mad N Fluffy",
+      "commanders": [
+        "Fingersinge",
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-04-03T16:52:42.000Z",
+      "dateEnd": "2026-04-03T19:50:13.000Z",
+      "dateLabel": "03/04/2026, 17:52:42 - 03/04/2026, 20:50:13",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260403-175242-wioa",
+      "summary": {
+        "borderlandsPct": 0.8181818181818182,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260402-190408-rn6p",
       "title": "Strádùs",
       "commanders": [
