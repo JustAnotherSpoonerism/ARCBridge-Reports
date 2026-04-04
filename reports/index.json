@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-192003-fh1q",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-04-03T18:20:03.000Z",
+      "dateEnd": "2026-04-03T19:50:13.000Z",
+      "dateLabel": "03/04/2026, 19:20:03 - 03/04/2026, 20:50:13",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260403-192003-fh1q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260403-175242-wioa",
       "title": "Fingersinge, Just Mad N Fluffy",
       "commanders": [
