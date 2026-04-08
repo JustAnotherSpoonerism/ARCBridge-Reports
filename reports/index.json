@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260408-191212-47jk",
+      "title": "Yoloola",
+      "commanders": [
+        "Yoloola"
+      ],
+      "dateStart": "2026-04-08T18:12:12.000Z",
+      "dateEnd": "2026-04-08T19:38:51.000Z",
+      "dateLabel": "08/04/2026, 19:12:12 - 08/04/2026, 20:38:51",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260408-191212-47jk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260403-192003-fh1q",
       "title": "Just Mad N Fluffy",
       "commanders": [
