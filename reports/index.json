@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260410-191810-t4ph",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-04-10T18:18:10.000Z",
+      "dateEnd": "2026-04-10T19:38:18.000Z",
+      "dateLabel": "10/04/2026, 19:18:10 - 10/04/2026, 20:38:18",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260410-191810-t4ph",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260408-191212-47jk",
       "title": "Yoloola",
       "commanders": [
