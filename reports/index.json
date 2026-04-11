@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260411-190037-e4og",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-04-11T18:00:37.000Z",
+      "dateEnd": "2026-04-11T19:18:44.000Z",
+      "dateLabel": "11/04/2026, 19:00:37 - 11/04/2026, 20:18:44",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260411-190037-e4og",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260410-191810-t4ph",
       "title": "Just Mad N Fluffy",
       "commanders": [
