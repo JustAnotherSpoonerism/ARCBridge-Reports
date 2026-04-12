@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260412-162431-90m1",
+      "title": "Garage En Résine",
+      "commanders": [
+        "Garage En Résine"
+      ],
+      "dateStart": "2026-04-12T15:24:31.000Z",
+      "dateEnd": "2026-04-12T16:12:29.000Z",
+      "dateLabel": "12/04/2026, 16:24:31 - 12/04/2026, 17:12:29",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260412-162431-90m1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 9,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260411-190037-e4og",
       "title": "Dalaxis",
       "commanders": [
