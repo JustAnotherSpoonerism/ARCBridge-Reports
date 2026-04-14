@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260414-212503-c99w",
+      "title": "Might Be Mariachi",
+      "commanders": [
+        "Might Be Mariachi"
+      ],
+      "dateStart": "2026-04-14T20:25:03.000Z",
+      "dateEnd": "2026-04-14T21:25:21.000Z",
+      "dateLabel": "14/04/2026, 21:25:03 - 14/04/2026, 22:25:21",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260414-212503-c99w",
+      "summary": {
+        "borderlandsPct": 0.75,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260412-162431-90m1",
       "title": "Garage En Résine",
       "commanders": [
