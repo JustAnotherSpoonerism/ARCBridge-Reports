@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260420-194308-71oc",
+      "title": "Might Be Mariachi",
+      "commanders": [
+        "Might Be Mariachi"
+      ],
+      "dateStart": "2026-04-20T18:43:08.000Z",
+      "dateEnd": "2026-04-20T20:00:31.000Z",
+      "dateLabel": "20/04/2026, 19:43:08 - 20/04/2026, 21:00:31",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260420-194308-71oc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260417-190934-b2bt",
       "title": "Just Mad N Fluffy",
       "commanders": [
