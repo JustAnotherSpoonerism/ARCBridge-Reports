@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260421-193230-at1z",
+      "title": "Might Be Mariachi",
+      "commanders": [
+        "Might Be Mariachi"
+      ],
+      "dateStart": "2026-04-21T18:32:30.000Z",
+      "dateEnd": "2026-04-21T19:59:05.000Z",
+      "dateLabel": "21/04/2026, 19:32:30 - 21/04/2026, 20:59:05",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260421-193230-at1z",
+      "summary": {
+        "borderlandsPct": 0.2777777777777778,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260420-194308-71oc",
       "title": "Might Be Mariachi",
       "commanders": [
