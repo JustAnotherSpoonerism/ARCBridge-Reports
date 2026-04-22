@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260422-193502-4amv",
+      "title": "Yoloola",
+      "commanders": [
+        "Yoloola"
+      ],
+      "dateStart": "2026-04-22T18:35:02.000Z",
+      "dateEnd": "2026-04-22T20:00:12.000Z",
+      "dateLabel": "22/04/2026, 19:35:02 - 22/04/2026, 21:00:12",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260422-193502-4amv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260421-193230-at1z",
       "title": "Might Be Mariachi",
       "commanders": [
