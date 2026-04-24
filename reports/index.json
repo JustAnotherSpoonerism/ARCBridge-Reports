@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-193902-cgx4",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-04-24T18:39:02.000Z",
+      "dateEnd": "2026-04-24T20:09:45.000Z",
+      "dateLabel": "24/04/2026, 19:39:02 - 24/04/2026, 21:09:45",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260424-193902-cgx4",
+      "summary": {
+        "borderlandsPct": 0.9523809523809523,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260423-192855-fbcg",
       "title": "Might Be Mariachi",
       "commanders": [
