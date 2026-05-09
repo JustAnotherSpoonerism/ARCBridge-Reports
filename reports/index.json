@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260509-195223-iyqz",
+      "title": "Human Tamed A Cat",
+      "commanders": [
+        "Human Tamed A Cat"
+      ],
+      "dateStart": "2026-05-09T18:52:23.000Z",
+      "dateEnd": "2026-05-09T20:19:26.000Z",
+      "dateLabel": "09/05/2026, 19:52:23 - 09/05/2026, 21:19:26",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260509-195223-iyqz",
+      "summary": {
+        "borderlandsPct": 0.27586206896551724,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260508-205902-t17w",
       "title": "Mon Mariachi",
       "commanders": [
