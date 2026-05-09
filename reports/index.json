@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260508-205902-t17w",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
+      ],
+      "dateStart": "2026-05-08T19:59:02.000Z",
+      "dateEnd": "2026-05-08T21:12:38.000Z",
+      "dateLabel": "08/05/2026, 20:59:02 - 08/05/2026, 22:12:38",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260508-205902-t17w",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260508-190820-w44e",
       "title": "Just Mad N Fluffy",
       "commanders": [
