@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260508-190820-w44e",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-05-08T18:08:20.000Z",
+      "dateEnd": "2026-05-08T19:46:01.000Z",
+      "dateLabel": "08/05/2026, 19:08:20 - 08/05/2026, 20:46:01",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260508-190820-w44e",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260507-194640-nhf8",
       "title": "Just Mad N Fluffy",
       "commanders": [
