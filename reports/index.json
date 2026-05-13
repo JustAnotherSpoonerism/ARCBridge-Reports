@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260513-192227-eugb",
+      "title": "Yoloola",
+      "commanders": [
+        "Yoloola"
+      ],
+      "dateStart": "2026-05-13T18:22:27.000Z",
+      "dateEnd": "2026-05-13T20:08:56.000Z",
+      "dateLabel": "13/05/2026, 19:22:27 - 13/05/2026, 21:08:56",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260513-192227-eugb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260509-195223-iyqz",
       "title": "Human Tamed A Cat",
       "commanders": [
