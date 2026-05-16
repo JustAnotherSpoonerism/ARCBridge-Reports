@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-195751-a0l9",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-05-16T18:57:51.000Z",
+      "dateEnd": "2026-05-16T19:28:01.000Z",
+      "dateLabel": "16/05/2026, 19:57:51 - 16/05/2026, 20:28:01",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260516-195751-a0l9",
+      "summary": {
+        "borderlandsPct": 0.09375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20260515-193223-q879",
       "title": "Just Mad N Fluffy",
       "commanders": [
