@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-193557-c9lr",
+      "title": "Just Mad N Fluffy, Marbhadh Furasta",
+      "commanders": [
+        "Just Mad N Fluffy",
+        "Marbhadh Furasta"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-09-06T18:35:57.000Z",
+      "dateEnd": "2026-09-06T20:08:43.221Z",
+      "dateLabel": "06/09/2026, 19:35:57 - 06/09/2026, 21:08:43",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260906-193557-c9lr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260717-194519-6dik",
       "title": "Lan Firebrand",
       "commanders": [
