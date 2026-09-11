@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-193136-bezn",
+      "title": "Shaman Donye",
+      "commanders": [
+        "Shaman Donye"
+      ],
+      "guild": {
+        "id": "7448E0E2-0332-EE11-81B7-AD7CCA945DAC",
+        "name": "Notorîous",
+        "tag": "BiG"
+      },
+      "dateStart": "2026-09-11T18:31:36.000Z",
+      "dateEnd": "2026-09-11T19:23:27.526Z",
+      "dateLabel": "11/09/2026, 19:31:36 - 11/09/2026, 20:23:27",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20260911-193136-bezn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260906-193557-c9lr",
       "title": "Just Mad N Fluffy, Marbhadh Furasta",
       "commanders": [
