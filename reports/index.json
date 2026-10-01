@@ -1,8 +1,37 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": true,
-  "glassmorphic": false,
+  "axiTheme": "flat",
+  "glass": false,
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261001-191603-8jmi",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-01T18:16:03.000Z",
+      "dateEnd": "2026-10-01T19:56:52.981Z",
+      "dateLabel": "01/10/2026, 19:16:03 - 01/10/2026, 20:56:52",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20261001-191603-8jmi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20260911-193136-bezn",
       "title": "Shaman Donye",
