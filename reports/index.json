@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-161707-zvfb",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-10-04T15:17:07.000Z",
+      "dateEnd": "2026-10-04T15:55:16.331Z",
+      "dateLabel": "04/10/2026, 16:17:07 - 04/10/2026, 16:55:16",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20261004-161707-zvfb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 64
+      }
+    },
+    {
       "id": "20261004-142849-jxl0",
       "title": "Me My Clones And I",
       "commanders": [
