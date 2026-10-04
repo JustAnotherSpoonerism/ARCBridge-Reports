@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-142849-jxl0",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "guild": {
+        "id": "757F9AC9-6744-EF11-8465-06D1970130F4",
+        "name": "Dont Worry We Got",
+        "tag": "this"
+      },
+      "dateStart": "2026-10-04T13:28:49.000Z",
+      "dateEnd": "2026-10-04T14:24:50.597Z",
+      "dateLabel": "04/10/2026, 14:28:49 - 04/10/2026, 15:24:50",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20261004-142849-jxl0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261001-191603-8jmi",
       "title": "Strádùs",
       "commanders": [
