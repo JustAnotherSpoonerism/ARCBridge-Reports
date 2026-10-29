@@ -3,7 +3,40 @@
   "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.10"
+  },
   "entries": [
+    {
+      "id": "20261029-195653-odou",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-29T19:56:53.000Z",
+      "dateEnd": "2026-10-29T20:46:09.392Z",
+      "dateLabel": "29/10/2026, 19:56:53 - 29/10/2026, 20:46:09",
+      "url": "https://JustAnotherSpoonerism.github.io/ARCBridge-Reports/?report=20261029-195653-odou",
+      "publishedBy": "JustAnotherSpoonerism",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 48
+      }
+    },
     {
       "id": "20261004-161707-zvfb",
       "title": "Präk",
